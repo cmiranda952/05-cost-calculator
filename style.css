@@ -48,6 +48,29 @@ img {
   background: #fdf4e9;
 }
 
+.size-select {
+  display: block;
+  width: 100%;
+  max-width: 240px;
+  margin: 10px auto 18px;
+  padding: 10px;
+  font-size: 18px;
+  border: 2px solid #d63600;
+  border-radius: 8px;
+  color: #5c3118;
+  background: white;
+}
+
+.delivery-option {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 6px 0 16px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #5c3118;
+}
+
 #total {
   font-size: 32px;
   margin-top: 22px;
